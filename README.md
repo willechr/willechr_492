@@ -1,6 +1,8 @@
 # Analyzing the Top 300 Highest-Paid Athletes from 1990-2020
 ## To view project proposal
 Open willechr-CMSE492 Project Proposal.pdf
+## To view data
+Open Forbes Richest Atheletes (Forbes Richest Athletes 1990-2020).csv
 ## To view report
 Open willechr_FinalReport.pdf
 ## To view code
